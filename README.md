@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 Download this repository to your device and install npm
+
 To install npm you can run:
 ### `npm init`
 
