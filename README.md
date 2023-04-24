@@ -22,3 +22,11 @@ To run the server:
 Open (http://localhost:3003/users) to view JSON data in your browser.
 
 Now we can do CRUD operations on this application.
+
+
+------------------------------------------------------------------------------------------
+This application hosted in Netlify
+
+Website link : https://applicants-list-crud.netlify.app/
+
+For database we have to run json-server as shown steps above to load JSON data.
